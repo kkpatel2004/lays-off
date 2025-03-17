@@ -1,5 +1,3 @@
-Here’s an introduction for a **Layoffs Data Analysis** project on GitHub:  
-
 ---
 
 # Layoffs Data Analysis  
